@@ -1,3 +1,3 @@
 # Galaxy-Defenders
 Repositorio videojuego Galaxy Defenders
-<p>Conflicto Mario Lobato y resuelvo el conflicto</p>
+<p>conflicto mireia barrero</p>
